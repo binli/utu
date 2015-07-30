@@ -1,0 +1,17 @@
+{
+    "name": "utu.binli",
+    "description": "Pictures review and simple process",
+    "architecture": "@CLICK_ARCH@",
+    "title": "utu",
+    "hooks": {
+        "utu": {
+            "apparmor": "utu/utu.apparmor",
+            "desktop":  "utu/utu.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Bin Li <libin.charles@gmail.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

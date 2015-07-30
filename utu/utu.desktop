@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=utu
+Exec=utu
+Icon=utu/utu.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
